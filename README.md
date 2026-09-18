@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-NA
+https://kotlinlang.org/docs/scope-functions.html
 
 ## Verbal Collaboration
 
