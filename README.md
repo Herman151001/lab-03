@@ -8,6 +8,7 @@
 ## References and Resources
 
 https://kotlinlang.org/docs/scope-functions.html
+
 https://kotlinlang.org/docs/lambdas.html
 
 ## Verbal Collaboration
